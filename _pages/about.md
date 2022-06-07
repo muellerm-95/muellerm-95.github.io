@@ -10,6 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-About
-
-Welcome to my personal website! I will write more about myself soon.
+Welcome to my website! I will write more about myself soon.
