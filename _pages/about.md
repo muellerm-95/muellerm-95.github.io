@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
+
 
 Welcome to my website! I am currently a PhD student in the Machine Learning group of [Matthias Hein](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/maschinelles-lernen/team/prof-dr-matthias-hein/) at the University of Tübingen and also a member of the [ELLIS-program](https://ellis.eu/), with [Gergely Neu](http://cs.bme.hu/~gergo/) as my co-supervisor. 
 
